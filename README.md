@@ -2,7 +2,7 @@
 <body>
     <h1>Burak Sağım</h1>
     <hr>
-<h2>Instructor</h2> <img height= 250 width= 300 src="https://github.com/Buraksqm/IlkWebSayfam/blob/main/img.jpg">
+<h2>Instructor</h2> <img height= 200 width= 300 src="https://github.com/Buraksqm/IlkWebSayfam/blob/main/img.jpg">
 <p> 
     Hello! This is Burak.I'm living in İzmir and studying at EGE University. I like Scorsese's and Kubrick's films.<br>
      I love dealings with software issues and I believe that I am going to find software language which I am gonna love.
